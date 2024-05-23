@@ -1,3 +1,4 @@
+
 # 알파벳 정의
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
